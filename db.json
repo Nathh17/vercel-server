@@ -1,9 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "Giova" : 7,
+    "Ciccio" : 16,
+    "Xhoi" : 25,
+    "Fede" : 2,
+    "Sabri" : 31,
+    "Pippo" : 37,
+    "Stef" : 10,
+    "Giulia" : 45
 }
